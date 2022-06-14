@@ -1,2 +1,0 @@
-# Projects
-My first projects
